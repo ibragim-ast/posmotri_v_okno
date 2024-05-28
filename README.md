@@ -2,7 +2,7 @@
 
 Данное приложение позволяет "выглянуть" из окон самых разных городов мира.
 
-![Screenshot]('images/screenshot.png')
+![Screenshot](./images/screenshot.png)
 
 ## Запуск
 
